@@ -1,0 +1,11 @@
+{
+  "name": "conector_twitter_ads",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "diemano",
+  "license": "MIT",
+  "scripts" : {"push": "cd src;clasp push;cd -"},
+  "dependencies": {
+    "@google/clasp": "^2.2.0"
+  }
+}
