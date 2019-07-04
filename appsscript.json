@@ -3,8 +3,8 @@
     "name": "spotify test",
     "company": "Linksearch",
     "logoUrl": "https://developer.spotify.com/assets/branding-guidelines/icon1@2x.png",
-    "addonUrl": "https://github.com/Bajena/spotify-gds-connector",
-    "supportUrl": "https://github.com/Bajena/spotify-gds-connector",
+    "addonUrl": "https://github.com/diemano/spotify-conector",
+    "supportUrl": "https://github.com/diemano/spotify-conector",
     "description": "This connector can be used to show stats about your last played tracks"
   }
 }
